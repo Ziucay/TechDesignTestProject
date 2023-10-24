@@ -16,11 +16,11 @@ MonoBehaviour:
   m_TableCollectionNameGuidString: 8c75aa189d1a04e4c9233b72874cfd3e
   m_Entries:
   - m_Id: 632311402496
-    m_Key: world_one/Canvas/Button/Text (TMP)
+    m_Key: world_tw/Canvas/Button/Text (TMP)
     m_Metadata:
       m_Items: []
-  - m_Id: 4158194339840
-    m_Key: world_two/Canvas/Button/Text (TMP)
+  - m_Id: 10449235103744
+    m_Key: world_two_button
     m_Metadata:
       m_Items: []
   m_Metadata:
