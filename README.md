@@ -5,5 +5,4 @@ Used assets:
 - Chest opening VFX: https://freesound.org/people/dkiller2204/sounds/422975/
 - Background music: https://freesound.org/people/gis_sweden/sounds/651797/
 - Font: https://fonts.google.com/specimen/Inter/about
-- Outline shader: https://assetstore.unity.com/packages/vfx/shaders/2d-sprite-outline-109669
 
