@@ -117,7 +117,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2x_0
+      name: character_blink_0
       rect:
         serializedVersion: 2
         x: 88
@@ -131,14 +131,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc9d950efec3db54699681d915c7f1a4
-      internalID: -344612644
+      spriteID: 53f5e766638c59a42a475412baf67e82
+      internalID: 1265047822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_1
+      name: character_blink_1
       rect:
         serializedVersion: 2
         x: 261
@@ -152,14 +152,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 326b519c99723ab47aabc492b177a9c0
-      internalID: -1307411722
+      spriteID: 1fc87de49e8451148bfadc5daf9cc732
+      internalID: 1505675062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_2
+      name: character_blink_2
       rect:
         serializedVersion: 2
         x: 434
@@ -173,19 +173,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7651bef133585ae4c91abbdd0509a79b
-      internalID: -1484194380
+      spriteID: d4e0ac64444673c4186f2861db4223cc
+      internalID: 667266837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_3
+      name: character_blink_3
       rect:
         serializedVersion: 2
         x: 607
         y: 53
-        width: 144
+        width: 143
         height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -194,14 +194,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4c65bf666cd031047a33ec6a4e15d28e
-      internalID: 247560749
+      spriteID: 43da8c92651e24642947084314de0dda
+      internalID: -1355063111
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_4
+      name: character_blink_4
       rect:
         serializedVersion: 2
         x: 779
@@ -215,14 +215,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1817fcfda4c76834ebb7e6e50ff1049a
-      internalID: -74885103
+      spriteID: c90517c8854f52c48bc20509ffa6b81e
+      internalID: 737390355
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_5
+      name: character_blink_5
       rect:
         serializedVersion: 2
         x: 952
@@ -236,14 +236,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9bc619aa3ef99d40a2fea0b2be0ea8b
-      internalID: 2112976297
+      spriteID: 77b95b5ae5613934ab57a2f70acfd39c
+      internalID: 124803791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_6
+      name: character_blink_6
       rect:
         serializedVersion: 2
         x: 1125
@@ -257,19 +257,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8f80691d242d4d459a0229bf84db532
-      internalID: -222858895
+      spriteID: 402866614cae88a4c830c01e746847e8
+      internalID: 1849086667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_7
+      name: character_blink_7
       rect:
         serializedVersion: 2
         x: 1298
         y: 53
-        width: 144
+        width: 143
         height: 147
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -278,14 +278,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00a5e2c8a412d8e43b52ffc9a6ec3615
-      internalID: 1663968599
+      spriteID: b24e2cc6ea8fb7b4c8cc2722a65f57e6
+      internalID: 680826343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_8
+      name: character_blink_8
       rect:
         serializedVersion: 2
         x: 1470
@@ -299,14 +299,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05e7c137d33b3b43baf7444fa3ce2da
-      internalID: 193761150
+      spriteID: 0f9334809a75e0242bbf3131d4873e60
+      internalID: 1576210246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_9
+      name: character_blink_9
       rect:
         serializedVersion: 2
         x: 1643
@@ -320,14 +320,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d267ac8cfae8b94f957017428c54ff6
-      internalID: -1086691667
+      spriteID: e8f7d80c3525b8c498b18d07fbdcbe63
+      internalID: 1175796151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_10
+      name: character_blink_10
       rect:
         serializedVersion: 2
         x: 1816
@@ -341,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f65d90d21b3a7db44979800cf20ab82f
-      internalID: -536437559
+      spriteID: 5860f65a87c7e6e4e94d3b563686d104
+      internalID: -1536169636
       vertices: []
       indices: 
       edges: []
@@ -358,17 +358,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      2x_10: -536437559
-      2x_5: 2112976297
-      2x_2: -1484194380
-      2x_4: -74885103
-      2x_6: -222858895
-      2x_9: -1086691667
-      2x_1: -1307411722
-      2x_0: -344612644
-      2x_3: 247560749
-      2x_8: 193761150
-      2x_7: 1663968599
+      character_blink_7: 680826343
+      character_blink_9: 1175796151
+      character_blink_0: 1265047822
+      character_blink_3: -1355063111
+      character_blink_4: 737390355
+      character_blink_6: 1849086667
+      character_blink_1: 1505675062
+      character_blink_5: 124803791
+      character_blink_2: 667266837
+      character_blink_8: 1576210246
+      character_blink_10: -1536169636
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
